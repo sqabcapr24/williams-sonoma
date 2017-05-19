@@ -1,12 +1,14 @@
-# Basic Project
-## Basic Project Structure
+# Williams Sonoma
+## Williams Sonoma project to search for item and validating it was adding to car.
 
-*Default Structure for A Basic Project*
+*Test for item being added to cart*
 
 **Java 8**
 
 * Maven
-* JUnit
+* TestNG
+* Log4j
+* Selenium WebDriver
 
 Java Project for SQA Boot Camp Program. 
 
